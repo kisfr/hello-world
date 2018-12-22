@@ -1,2 +1,3 @@
 # hello-world
 First steps usig Git
+I should add some info here ...
